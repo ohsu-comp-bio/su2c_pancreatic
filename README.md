@@ -1,3 +1,3 @@
-# bcclabkey
+# su2c_pancreatic
 
-LabKey module for Brenden-Colson Center for Pancreatic Care
+LabKey module for Stand Up to Cancer Pancreatic Dream Team
